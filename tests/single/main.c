@@ -4,5 +4,5 @@
 int main()
 {
     int x = four();
-    printf("%d", x);
+    printf("%d\n", x);
 }
