@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello, Fabricate!");
+    printf("Hello, Fabricate!\n");
 }
